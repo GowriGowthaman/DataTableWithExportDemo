@@ -1,0 +1,23 @@
+{
+  "name": "data-table-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "datatables.net": "^1.11.3",
+    "datatables.net-buttons-dt": "^2.0.1",
+    "datatables.net-datetime": "^1.1.1",
+    "datatables.net-dt": "^1.11.3",
+    "has-flag": "^5.0.1",
+    "jquery": "^3.6.0",
+    "jszip": "^3.7.1",
+    "next": "11.1.2",
+    "pdfmake": "^0.2.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
